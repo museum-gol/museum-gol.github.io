@@ -32,5 +32,5 @@ $('ul.nav > li').hover(function() {
     $('.navbar').removeClass('bg-transparent');
     $('.navbar').addClass('bg-dark');
     $('.form-control').removeClass('d-block');
-    $('.form-control').removeClass('d-sm-none'); 
+    $('.form-control').removeClass('d-sm-none');   
   })
